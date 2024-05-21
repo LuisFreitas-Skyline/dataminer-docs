@@ -52,6 +52,8 @@ class DataPresent classDecision;
 >
 > - your investigation may be complete.
 > - you may need to check the log information in *SLErrors.txt*, *SLWatchDog2.txt*, *SLDBConnection.txt*, or the element logging.
+> 
+> A LogCollector package with SLProtocol, SLElement, and SLDataMiner memory dumps are usually required to investigate an alarm creation issues. For retrieval issues, usually SLDataGateway and SLNet.
 
 ### Retrieval Issue
 
